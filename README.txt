@@ -1,6 +1,3 @@
-This project is to demonstrate the application of algorithm design using various techniques, such as recursive, 
-memoizing, dynamic programming, traceback, and divide and conquer.
+This project is to demonstrate the application of algorithm design using various techniques, such as recursive, memoizing, dynamic programming, traceback, and divide and conquer.
 
-Please note that this project is to demonstrate algorithm design and nothing else. There may be other development
-principles employed, but this is not meant to demonstrate them. The code is not meant to be the most elegant,
-production-ready code you've ever seen. It is also not meant to be the most efficient implementation.
+Please note that this project is to demonstrate algorithm design and nothing else. There may be other development principles employed, but this is not meant to demonstrate them. The code is not meant to be the most elegant, production-ready code you've ever seen. It is also not meant to be the most efficient implementation.
