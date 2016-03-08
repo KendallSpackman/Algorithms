@@ -1,0 +1,45 @@
+abandonned->abandoned
+aberation->aberration
+abilties->abilities
+abilty->ability
+abondon->abandon
+abbout->about
+abotu->about
+abouta->about a
+aboutit->about it
+aboutthe->about the
+abscence->absence
+abondoned->abandoned
+abondoning->abandoning
+abondons->abandons
+aborigene->aborigine
+accesories->accessories
+accidant->accident
+abortificant->abortifacient
+abreviate->abbreviate
+abreviated->abbreviated
+abreviation->abbreviation
+abritrary->arbitrary
+absail->abseil
+absailing->abseiling
+absense->absence
+absolutly->absolutely
+absorbsion->absorption
+absorbtion->absorption
+abudance->abundance
+abundacies->abundances
+abundancies->abundances
+abundunt->abundant
+abutts->abuts
+acadamy->academy
+acadmic->academic
+accademic->academic
+accademy->academy
+acccused->accused
+accelleration->acceleration
+accension->accession, ascension
+achive->achieve, archive
+achived->achieved, archived
+ackward->awkward, backward
+addres->address, adders
+adressing->addressing, dressing
